@@ -16,5 +16,15 @@ A production-grade embedded architecture engineered on the ESP32 framework, show
 * **Hardware Interfacing:** ESP32 Microcontroller, PWM Servo Control (`ESP32Servo`), Ultrasonic Telemetry Hub, H-Bridge DC Motor Driver Inversion.
 * **Networking & Web Layer:** SoftAP Wi-Fi Infrastructure, Localized Asynchronous HTTP Server (`WebServer`), AJAX Polling Protocols.
 
+
+## Live System Demonstration
+
+<p align="center">
+  <a href="https://youtu.be/7RLur4daF4w">
+    <img src="https://img.youtube.com/vi/7RLur4daF4w/maxresdefault.jpg" alt="ESP32 Autonomous Tactical Robot" width="100%">
+  </a>
+  <br>
+  <em>Click the image above to watch the full embedded system architecture in action on YouTube.</em>
+</p>
 ---
 *Designed and developed by Nour Aldin Qwaider (Mr-Noor-aldeen).*
